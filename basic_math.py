@@ -6,9 +6,9 @@ import math
 
 
 def main():
-    print(5 + 5)
-    print(5 - 8)
-    print(7 * 8)
+    print(5 + 6)
+    print(20 - 8)
+    print(50 * 8)
     print(9**10)
     print(math.sqrt(40))
 
